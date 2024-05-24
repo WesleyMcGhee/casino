@@ -1,0 +1,38 @@
+.header {
+  background-color: #242424;
+  height: 7vh;
+  width: 100%;
+  padding: 0 3vw;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 2.2rem;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+.nav-item {
+  display: inline;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.nav-item:hover {
+  background-color: #424242;
+}
+
+.games-con {
+  display: inline;
+}
+
+.nav-link {
+  color: white;
+  display: inline;
+  text-decoration: none;
+}
